@@ -1,0 +1,18 @@
+# Files and folders to exclude from deployment
+# Git and Vercel metadata
+.git/
+.github/
+.vscode/
+.vercel/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Node or build caches (if added later)
+node_modules/
+dist/
+build/
+.tmp/
+.cache/
